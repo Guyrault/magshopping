@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "HTC U19e",
+    "Description": "Released 2019, June 11, 180g, 8mm thickness, Android 9.0, HTC Sense, 128GB storage",
+    "Prize": 150000,
+    "PictureUrl": "images/product/htcu19e.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "HTC Desire 21 Pro 5G",
+    "Description": "Released 2021, January 21, 205g, 9.4mm thickness, Android 10, HTC Sense, 128GB storage",
+    "Prize": 250000,
+    "PictureUrl": "images/product/htcd21pro.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Samsung Galaxy S21 Ultra",
+    "Description": "Released 2021, January 29, 227g, 8.9mm thickness, Android 11, One UI, 128GB storage",
+    "Prize": 400000,
+    "PictureUrl": "images/product/galaxys21ultra.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Samsung Galaxy F22",
+    "Description": "Released 2021, July 13, 227g, 9.4mm thickness, Android 11, One UI, 64GB storage",
+    "Prize": 130000,
+    "PictureUrl": "images/product/galaxyf22.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Xiaomi Redmi Note 10 Pro",
+    "Description": "Released 2021, June 02, 193g, 8.9mm thickness, Android 11, MIUI 12.5, 128GB storage",
+    "Prize": 200000,
+    "PictureUrl": "images/product/redminote10.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Xiaomi Mi LED TV 4S 43",
+    "Description": "4K+HDR, Processeur quadricore 64 bits, Dolby Audio 8Go stockage",
+    "Prize": 260000,
+    "PictureUrl": "images/product/mitv43pouces.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Apple Airpods Pro",
+    "Description": "White, Wireless with charging case",
+    "Prize": 150000,
+    "PictureUrl": "images/product/airpodpro.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "JBL Charge 4",
+    "Description": "Black smart speaker with latest bluetooth technology",
+    "Prize": 175000,
+    "PictureUrl": "images/product/jblcharge4.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Xiaomi Redmi Airdots",
+    "Description": "Black Xiaomi Redmi Airdots with noise cancellation and latest bluetooth technology",
+    "Prize": 75000,
+    "PictureUrl": "images/product/redmiairdots.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  }
+]
